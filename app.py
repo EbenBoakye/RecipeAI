@@ -19,7 +19,7 @@ def get_ingredients_from_image(image_path):
         base64_image = base64.b64encode(image.read()).decode("utf-8")
 
     response = openai.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o",
         messages=[
             {
                 "role": "system", 
