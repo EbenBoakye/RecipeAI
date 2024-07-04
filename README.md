@@ -1,5 +1,6 @@
 ##RecipeAI
-RecipeAI is a project that leverages artificial intelligence to generate and manage recipes. This repository contains the code and necessary files to run the AI model and web application.
+RecipeAI is a project that leverages artificial intelligence to generate and manage recipes. 
+This repository contains the code and necessary files to run the AI model and web application.
 
 ##Features
 Recipe Generation: Create unique recipes based on given ingredients.
